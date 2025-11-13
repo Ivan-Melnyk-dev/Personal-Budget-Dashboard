@@ -72,7 +72,19 @@ The final Excel dashboard includes:
 - Savings Distribution  
 - Actual vs Budget performance chart  
 
-*(Insert dashboard screenshots here)*
+## 🎥 Dashboard Demo (MP4)
+
+You can watch a short demo of how the dashboard works and how the charts update when the data changes:
+
+👉 **[Click here to watch the video](Media/personal_budget_dashboard_demo.mp4)**
+
+## 📸 Screenshots
+
+### Main Dashboard  
+![Dashboard Main](Screenshots/Dashboard_main.png)
+
+### Budget Data Entry  
+![Budget Data Entry](Screenshots/budget_data_entry.png)
 
 ## 💡 Key Insights
 
