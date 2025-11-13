@@ -78,6 +78,8 @@ You can watch a short demo of how the dashboard works and how the charts update 
 
 👉 **[Click here to watch the video](Media/personal_budget_dashboard_demo.mp4)**
 
+*Video demo of the interactive Excel dashboard. The video has no sound.*
+
 ## 📸 Screenshots
 
 ### Main Dashboard  
