@@ -76,7 +76,7 @@ The final Excel dashboard includes:
 
 You can watch a short demo of how the dashboard works and how the charts update when the data changes:
 
-👉 **[Click here to watch the video](Media/personal_budget_dashboard_demo.mp4)**
+👉 **[Click here to watch the video](https://github.com/Ivan-Melnyk-dev/Personal-Budget-Dashboard/raw/main/Media/personal_budget_dashboard_demo.mp4)**
 
 *Video demo of the interactive Excel dashboard. The video has no sound.*
 
