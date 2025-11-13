@@ -83,10 +83,10 @@ You can watch a short demo of how the dashboard works and how the charts update 
 ## 📸 Screenshots
 
 ### Main Dashboard  
-![Dashboard Main](Screenshots/Dashboard_main.png)
+![Dashboard Main](Screenshots/dashboard_main.png.jpg)
 
 ### Budget Data Entry  
-![Budget Data Entry](Screenshots/budget_data_entry.png)
+![Budget Data Entry](Screenshots/budget_data_entry.png.jpg)
 
 ## 💡 Key Insights
 
